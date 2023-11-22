@@ -6,7 +6,7 @@ This project is a workout reservation and user-friendly gym management system. I
 
 - [Egor Greb](https://www.linkedin.com/in/grebegor/)
 - [Olha Kishkinova](https://www.linkedin.com/in/olha-kishkinova-b10015234/)
-- [Damir Asylbekov](https://www.linkedin.com/in/dmr4eg/)
+- [Damir Kabi](https://www.linkedin.com/in/dmr4eg/)
 - [Alisher Nurakhmetov](https://www.linkedin.com/in/alisher-nurakhmetov-16b519242/)
 - [Tomáš Jelšík](https://www.linkedin.com/in/tom%C3%A1%C5%A1-jel%C5%A1%C3%ADk-b72b76275/)
 - [Andrew Nehalchuk](https://www.linkedin.com/in/andneh/)
